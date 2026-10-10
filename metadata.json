@@ -1,0 +1,11 @@
+{
+  "name": "Anjali ai assistant ai amit ",
+  "description": "A modern, responsive AI assistant with real-time streaming, voice input, natural text-to-speech, and customizable intelligence powered by Google Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
